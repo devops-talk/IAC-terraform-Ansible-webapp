@@ -20,3 +20,5 @@ Then run ansible to provision webserver servers.
 
 Ansible command: ansible-playbook playbook.yml
 # IAC-terraform-Ansible-webapp
+
+Note : Change the iventory host IP with elastic IP of webhost
